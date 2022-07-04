@@ -1,0 +1,26 @@
+.book {
+  height: 315px;
+  margin-bottom: 10.5rem;
+}
+
+.book .container {
+  padding: 24px 45px;
+  background: #c4c4c4;
+}
+
+.book h1 {
+  font-family: "DM Serif Display";
+  text-transform: capitalize;
+}
+
+.book p {
+  max-width: 55%;
+  line-height: 28px;
+  font-size: 24px;
+}
+
+.book-details {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 40px;
+}

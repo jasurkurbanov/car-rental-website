@@ -1,0 +1,23 @@
+.input-container {
+  display: block;
+  background-color: rgb(255, 255, 255);
+  width: 310px;
+  height: 60px;
+  border-radius: 26px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.input-container input {
+  height: 100%;
+  border-top-left-radius: 26px;
+  border-bottom-left-radius: 26px;
+  padding-left: 20px;
+  font-size: 16px;
+}
+
+.input-container svg {
+  font-size: 24px;
+  color: #21408e;
+}
